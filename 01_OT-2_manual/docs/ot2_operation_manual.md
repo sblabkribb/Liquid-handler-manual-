@@ -130,6 +130,7 @@
 <p align="center">
   <img src="../images/operation/Hardware_Labware_tab.jpg" alt="Hardware Labware 탭 화면" width="700"/>
 </p>
+
 <p><span style="color:#007ACC; font-weight:bold;">④ 확인 후 Strat setup 버튼을 클릭합니다.</span></p>
 <p><span style="color:#007ACC; font-weight:bold;">⑤ 연결된 로봇을 선택한 뒤, 하단의 Proceed to Setup 버튼을 클릭하여 세팅 단계로 이동합니다.</span></p>
 
@@ -207,3 +208,4 @@
 
 ---
 ### 9. Troubleshooting
+추가 예정
