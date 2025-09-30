@@ -1,6 +1,5 @@
 # Opentrons Protocol Designer_Manual
 
-# Protocol Designer
 
 본 도구는 **코드 작성 없이도 OT-2용 피펫팅 프로토콜을 설계**할 수 있도록 지원합니다.
 
@@ -84,7 +83,7 @@
   <img src="../images/protocoldesigner/step4_2.png" alt="step4_2" width="300"/>
 </p>
 
-3. 사용할 **liquid의 이름과 설명을 입력**하고, 필요 시 색상을 지정합니다. 입력을 마쳤으면 **`Save`**를 클릭합니다.  해당 프로토콜에서 사용하는 **모든 liquid를 동일한 방법으로 추가**합니다.
+3. 사용할 **liquid의 이름과 설명을 입력**하고, 필요 시 색상을 지정합니다. 입력을 마쳤으면 **`Save`** 를 클릭합니다.  해당 프로토콜에서 사용하는 **모든 liquid를 동일한 방법으로 추가**합니다.
 
 <p align="center">
   <img src="../images/protocoldesigner/step4_3.png" alt="step4_3" width="400"/>
@@ -139,7 +138,7 @@
         
 
 3. 원하는 Well을 클릭하거나 드래그하여 선택한 뒤, 오른쪽 **`Add liquid`** 섹션에서 Liquid를 선택하고 Volume을 입력한 후 **`Save`** 를 클릭합니다.
-    - 필요하다면 화면 상단의 **`💧 **Liquids` 버튼** 을 눌러 새로운 Liquid를 추가하거나 수정할 수 있습니다.
+    - 필요하다면 화면 상단의 **`💧Liquids` 버튼** 을 눌러 새로운 Liquid를 추가하거나 수정할 수 있습니다.
 <p align="center">
   <img src="../images/protocoldesigner/step6_3.png" alt="step6_3" width="500"/>
 </p>
@@ -211,4 +210,4 @@
 
 1. 화면 상단의  **`Export`** 를 클릭합니다. 
 2. 프로토콜이 **Python File** 형식으로 컴퓨터에 다운로드됩니다.
-3. 다운로드된 **Python File** 파일은 Opentrons App에 업로드하여 로봇에서 실행할 수 있습니다.
+3. 다운로드된 **Python File** 은 Opentrons App에 업로드하여 로봇에서 실행할 수 있습니다.
