@@ -76,7 +76,7 @@ PC와 로봇이 연결되어 있고 로봇의 전원이 켜진 상태에서 Wind
 탈착 하면서, 파이펫 하단이 걸릴 때에는 무리하게 당기지 말고 **살짝 위로 들어 올리며 빼냅니다.** 
     
 
-    <img src="../images/2.lever.png" alt="NOTABLE_lever" width="400">
+    <img src="../images/1.lever.png" alt="NOTABLE_lever" width="650">
     
 <div style="margin-bottom:4px;"></div>
 
@@ -276,7 +276,7 @@ Windy의 STEP 단계에서는 프로토콜을 세부 동작을 설정합니다. 
 - 흡입 및 분주 후 파이펫을 잠시 멈추는 기능으로, 대기 시간·높이·속도를 지정할 수 있습니다.  
 - 기본 높이는 흡입/분주 높이와 동일하게 설정되어 있으며, **`+/-`** 버튼으로 상하 조정이 가능합니다.  
 - **예시:** 설정된 흡입/분주 위치에서 **7 mm** 상승한 위치로 이동 →  
-  Z축 기준 속도의 **80%**로 이동 후 **6초간 대기**
+  Z축 기준 속도의 **80%** 로 이동 후 **6초간 대기**
 
 <div style="margin:8px 0;"></div>
 <p align="center">
@@ -312,7 +312,7 @@ Windy의 STEP 단계에서는 프로토콜을 세부 동작을 설정합니다. 
 - 새 팁을 픽업할 때마다 Pre-Wetting이 자동으로 진행됩니다.  
 - **예시:**  
   - ‘흡입 → 1.5초 대기 → 분주 → 1.5초 대기’ 5회 반복  
-  - 속도는 설정된 **[Aspirate Speed]**와 동일  
+  - 속도는 설정된 **[Aspirate Speed]** 와 동일  
 
 <p align="center">
   <img src="../images/2.Option_Pre_Wetting.png" alt="Pre-Wetting" width="500">
@@ -453,20 +453,20 @@ Windy의 STEP 단계에서는 프로토콜을 세부 동작을 설정합니다. 
     2. 일부 스텝만 돌릴 경우, 해당 스텝 옆의 네모 박스를 체크한 후, **`RUN`** 을 클릭합니다.
         
     <div style="margin-bottom:6px;"></div>
-    <img src="../images/3.Run.png" alt="Run" width="500">
+    <img src="../images/3.Run.png" alt="Run" width="600">
     <div style="margin-bottom:4px;"></div>
 
 3. 새 프로토콜이거나, 기존 프로토콜에서 변화가 있을 경우, 저장 여부를 묻는 창이 뜹니다. 
     
     <div style="margin-bottom:6px;"></div>
-    <img src="../images/3.Save.png" alt="Save" width="500">
+    <img src="../images/3.Save.png" alt="Save" width="600">
     <div style="margin-bottom:4px;"></div>
     
 4. 선택된 스텝의 수를 확인한 후 **`YES`** 를 눌러 주세요.
     - 특정 프로토콜 지정 없이, 모든 스텝을 돌릴 경우, 아래와 같은 메시지가 뜹니다.
         
     <div style="margin-bottom:6px;"></div>
-    <img src="../images/3.Step.png" alt="Step" width="500">
+    <img src="../images/3.Step.png" alt="Step" width="600">
     <div style="margin-bottom:4px;"></div>
         
     - 일부 스텝만 돌릴 경우, 괄호 안에 선택된 스텝의 수가 표기됩니다.
